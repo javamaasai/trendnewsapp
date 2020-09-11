@@ -14,10 +14,10 @@ Trend news app is a news moblile application that list technological news and in
 
 Dawastatistics uses a number of open source projects to work properly:
 
-* [Kotlin] - programming language!
+* [Typescript] - open-source programming language developed and maintained by Microsoft.
 * [Java] - Java VM implementation of Reactive Extensions.
-* [Ionic] - open-source SDK for hybrid mobile app development.
-* [Angular] - TypeScript-based open-source web application framework.
+* [Ionic] - a mobile-app-framework, open-source SDK for hybrid mobile app development.
+* [Angular] - TypeScript-based open-source web & mobile application framework.
 * [Capacitor] - plugins to gain access to host operating systems features such as Camera, GPS, Flashlight, etc.
 * [Cordova] - (formerly PhoneGap) is a mobile application development framework
 
