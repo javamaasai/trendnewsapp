@@ -30,8 +30,8 @@ Install the dependencies and devDependencies and start the server or deploy on d
 2.Install Java SDK 8
 3.Android Studio and SDK
 4.npm install -g @ionic/cli
-5.ionic serve (while in project folder)
-2.ionic cordova run android --device (run in android device)
+5.ionic serve (For web view, run while in project folder)
+2.ionic cordova run android --device (For android device view)
 ```
 
 
