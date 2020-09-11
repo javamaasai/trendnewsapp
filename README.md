@@ -1,4 +1,4 @@
-![trendtechnewsapp ad sample](https://github.com/javamaasai/trendnewsapp/trendtechnewsbanner-01.png?raw=true)
+![trendtechnewsapp ad sample](https://github.com/javamaasai/trendnewsapp/blob/master/trendtechnewsbanner-01.png?raw=true)
 
 # Trend Tech News App
 
