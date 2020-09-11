@@ -1,0 +1,7 @@
+{
+  "name": "trendnewsapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

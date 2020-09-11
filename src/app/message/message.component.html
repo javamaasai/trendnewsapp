@@ -1,0 +1,18 @@
+<ion-item *ngIf="message" [routerLink]="'/message/' + message.id" [detail]="false">
+  <ion-thumbnail item-left>
+    <img src="../../assets/{{ message.image }}" alt="your image">
+  </ion-thumbnail>
+  <ion-label class="ion-text-wrap">
+    <h2>
+      {{ message.fromName }}
+      <span class="date">
+        <ion-note>{{ message.date }}</ion-note>
+        <ion-icon name="chevron-forward" size="small" *ngIf="isIos()"></ion-icon>
+      </span>
+    </h2>
+    <h3>{{ message.subject }}</h3>
+    <p>
+      {{ message.news }}
+    </p>
+  </ion-label>
+</ion-item>
