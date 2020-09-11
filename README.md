@@ -4,7 +4,7 @@
 
 Trend news app is a news moblile application that list technological news and information from all around the globe.
 
-  - comprises of both software, market, electronic products and scientific technical news
+  - comprises of both software, market, electronic products and scientific technological news
   - news data is loaded in a list
   - designed for low network
   
