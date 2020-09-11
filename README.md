@@ -7,6 +7,8 @@ Trend news app is a news moblile application that list technological news and in
   - comprises of both software, market, electronic products and scientific technical news
   - news data is loaded in a list
   - designed for low network
+  
+![trendtechnewsapp wireframe](https://github.com/javamaasai/trendnewsapp/blob/master/trendtechnewsbanner-02.png?raw=true)
 
 ### Tech stack
 
